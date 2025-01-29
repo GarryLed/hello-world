@@ -1,4 +1,9 @@
-import { TestBed } from '@angular/core/testing';
+/*
+What does this file do? 
+
+*/
+
+import { TestBed } from '@angular/core/testing'; 
 import { AppComponent } from './app.component';
 
 describe('AppComponent', () => {
